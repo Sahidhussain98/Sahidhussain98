@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sahidhussain98
 - 👀 I’m interested in Game development(new to it)
 - 🌱 I’m currently learning .Net web dev
-- 💞️ I’m looking to collaborate on anything web devor game dev related
+- 💞️ I’m looking to collaborate on anything web dev or game dev related
 - 📫 How to reach me:  _sahidhussain on insta
 - 😄 Gender: Male
    
